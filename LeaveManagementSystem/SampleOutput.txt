@@ -1,0 +1,44 @@
+Employee ID: 101
+Name: Arun
+Department: Engineering
+Leave balance: 20
+Annual allowance: 20
+----------------
+Employee ID: 102
+Name: Priya
+Department: Testing
+Leave balance: 10
+Annual allowance: 10
+----------------
+Employee ID: 103
+Name: Rahul
+Department: Development
+Leave balance: 5
+Annual allowance: 5
+----------------
+Employee ID: 104
+Name: Meera
+Department: Engineering
+Leave balance: 30
+Annual allowance: 30
+----------------
+Leave applied successfully.
+Request processed successfully.
+Request ID: 1
+Employee: Arun
+Days: 3
+Reason: Personal work
+Status: APPROVED
+Leave balance: 17
+Request ID: 1
+Employee: Arun
+Days: 3
+Reason: Personal work
+Status: APPROVED
+----------------
+Leave cancelled successfully.
+Request cancelled.
+Leave balance: 20
+Leave reason: Family function
+Leave applied successfully.
+Leave balance: 8
